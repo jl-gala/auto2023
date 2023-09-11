@@ -1,1 +1,2 @@
 changes
+some text (I added it in the GitHub, not in the terminal)
